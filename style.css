@@ -1,0 +1,43 @@
+.boxmodel{
+    margin-top:10%;
+    margin-left: 30%;
+}
+.a{
+    background-color: rgb(70, 400, 125);
+    border: 2px solid rgb(4, 4, 4);
+    width: 600px;
+    height:400px;
+    border-radius: 25px;
+    padding: 10%;
+    
+}
+.b{
+    background-color: yellow;
+    border: 2px dashed rgb(400, 141, 96);
+    width: 400px;
+    height: 300px;
+    margin-top: 10%;
+    
+    margin-left: 10%;
+    padding:70%
+    margin-right: 10%;
+
+}
+.c{
+    background-color: rgb(400, 69, 100);
+    border: 2px dotted rgb(100, 21, 500);
+    width: 190px;
+    height: 190px;
+    margin-top: 15%;
+    margin-left: 15%;
+    border-radius: 25px;
+}
+.Box{
+    text-align: center;
+    justify-content: center;
+    padding-top: 40%;
+}
+P{
+    color: white;
+}
+    
