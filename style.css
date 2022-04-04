@@ -19,25 +19,31 @@
     margin-top: 10%;
     
     margin-left: 10%;
-    padding:70%
+    padding-left:10%
+    padding-right:80%;
     margin-right: 10%;
 
 }
 .c{
     background-color: rgb(400, 69, 100);
     border: 2px dotted rgb(100, 21, 500);
-    width: 190px;
-    height: 190px;
+    width: 280px;
+    height: 120px;
+    padding-bottom: 20%;
     margin-top: 15%;
     margin-left: 15%;
     border-radius: 25px;
+    
 }
 .Box{
     text-align: center;
     justify-content: center;
-    padding-top: 40%;
+    padding-top: 25%;
+
 }
 P{
     color: white;
+    
+    position:center;
 }
     
